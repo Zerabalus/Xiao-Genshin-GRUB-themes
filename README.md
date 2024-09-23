@@ -4,8 +4,8 @@
 
 - <b>[🖥️ GRUB Themes](#grub-themes)</b>
 
-  - [💮 The Quintessential Quintuplets](#grub-themes)
-    - [Original Version](#art-preview-theme-)
+  - [💚 Xiao (Genshin Impact)](#grub-themes)
+    - [Eng ver.](#art-preview-theme-)
 
 - <b>[🔧 Installation](#installation)</b>
   - [First method](#1-installation)
