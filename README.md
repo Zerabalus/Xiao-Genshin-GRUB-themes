@@ -1,6 +1,7 @@
-## 🔖 Contents
+## 🍃 Contents 🍃
 
-<a><img src="https://64.media.tumblr.com/65c422a3b1b84f50649d239f3f8ce18e/1a269cdcb80f405b-d0/s500x750/e2453746d023cdcec190021b208e7621d2d341f9.gifv" width="40%" title="🙂" align="right"></a>
+<a><img src="https://i.pinimg.com/originals/31/26/51/3126516d77b2f81eb31c088f605b2378.gif" width="30%" height="40%" title="🙂" align="right"></a>
+<br/><br/>
 
 - <b>[🖥️ GRUB Themes](#grub-themes)</b>
 
@@ -11,16 +12,18 @@
   - [First method](#1-installation)
   - [Second method (wip script, soon)](#2-installation)
 
-<a><img src="https://64.media.tumblr.com/0d8a45287d985a9db7ee02c7fe4f490e/722f0b3a5709c1b2-f0/s640x960/7fd87a295114072f54e995704776527c24f05aa2.gifv" width="40%" title="🙂" align="right"></a>
 
-## :Installation
-### : <b>1. Installation</b>
 
+## Installation
+### <b>1.</b>
+<a><img src="https://i.pinimg.com/originals/45/3d/87/453d874a5cb24f5321162400c0eb5262.gif" width="30%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
 - Copy the repository and unzip
+
 ```
     git clone https://github.com/Zerabalus/GRUB-THEMES.git
 ```
+
 
 - Using Xiao Grub as an example:
 
