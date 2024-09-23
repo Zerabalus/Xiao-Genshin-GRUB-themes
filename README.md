@@ -11,7 +11,7 @@
   - [First method](#1-installation)
   - [Second method (wip script, soon)](#2-installation)
 
-<a><img src="https://gifdb.com/images/high/xiao-almost-falling-asleep-q1eg6ejpw8vhnmz1.webp" width="40%" title="🙂" align="right"></a>
+<a><img src="https://64.media.tumblr.com/0d8a45287d985a9db7ee02c7fe4f490e/722f0b3a5709c1b2-f0/s640x960/7fd87a295114072f54e995704776527c24f05aa2.gifv" width="40%" title="🙂" align="right"></a>
 
 ## :Installation
 ### : <b>1. Installation</b>
