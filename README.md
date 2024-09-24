@@ -12,9 +12,13 @@
   - [First method](#1-installation)
   - [Second method (wip script, soon)](#2-installation)
 
+## :art: Preview (XIAO)
 
+<div align="center" style="display:inline">
+<img alt="Xiao preview" src="git-img/EOS.png" width="1016px" />
+</div>
 
-## Installation
+## :wrench: Installation
 ### <b>1.</b>
 <a><img src="https://i.pinimg.com/originals/45/3d/87/453d874a5cb24f5321162400c0eb5262.gif" width="30%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
