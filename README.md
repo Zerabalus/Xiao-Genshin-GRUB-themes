@@ -18,6 +18,14 @@
 <img alt="Xiao preview" src="git-img/EOS.png" width="1016px" />
 </div>
 
+<div align="center" style="display:inline">
+<img alt="Xiao preview" src="git-img/EOS2.png" width="1016px" />
+</div>
+
+<div align="center" style="display:inline">
+<img alt="Xiao preview" src="git-img/CAO.png" width="1016px" />
+</div>
+
 ## :wrench: Installation
 ### <b>1.</b>
 <a><img src="https://i.pinimg.com/originals/45/3d/87/453d874a5cb24f5321162400c0eb5262.gif" width="30%" height="30%" title="🙂" align="right"></a>
