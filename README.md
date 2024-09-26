@@ -1,39 +1,26 @@
-## 🍃 Contents 🍃
+### 🍃 Contents 🍃
 
 <a><img src="https://i.pinimg.com/originals/31/26/51/3126516d77b2f81eb31c088f605b2378.gif" width="30%" height="40%" title="🙂" align="right"></a>
 <br/><br/>
 
-- <b>[🖥️ GRUB Themes](#grub-themes)</b>
-
-  - [💚 Xiao (Genshin Impact)](#grub-themes)
-    - [Eng ver.](#art-preview-theme-)
+- <b>[🖥️ GRUB Themes](#previews)</b>
+   - [Ver. 1](#1.)
+   - [Ver. 2](#2.)
+   - [Eng ver. 2](#eng2)
 
 - <b>[🔧 Installation](#installation)</b>
-  - [First method](#1-installation)
-  - [Second method (wip script, soon)](#2-installation)
+  - [First method](#1.)
+  - [Second method (wip script, soon)](#2)
 
-## :art: Preview (XIAO)
 
-<div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/EOS.png" width="1016px" />
-</div>
-
-<div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/EOS2.png" width="1016px" />
-</div>
-
-<div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/CAO.png" width="1016px" />
-</div>
-
-## :wrench: Installation
-### <b>1.</b>
+## Installation
+##1.
 <a><img src="https://i.pinimg.com/originals/45/3d/87/453d874a5cb24f5321162400c0eb5262.gif" width="30%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
 - Copy the repository and unzip
 
 ```
-    git clone https://github.com/Zerabalus/GRUB-THEMES.git
+    git clone https://github.com/Zerabalus/Xiao-Genshin-GRUB-themes.git
 ```
 
 
@@ -41,13 +28,12 @@
 
 - cd to where you copied it, on your terminal:
 ```
-sudo cp -r Xiao /usr/share/grub/themes
+ sudo cp -r Xiao /usr/share/grub/themes
 ```
 
-- Or like in my case
-```
-sudo cp -r Xiao /boot/grub/themes
-```
+- Or like in my case (DEBIAN-ARCH)
+
+>Arch/Debian `sudo cp -r Xiao /boot/grub/themes`
 
 - Then edit the name of the grub theme you want:
 ```
@@ -65,3 +51,18 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 reboot
 ```
+
+## Previews
+
+###1.
+<div align="center" style="display:inline">
+<img alt="Xiao preview" src="git-img/EOS.png" width="1016px" />
+</div>
+###2.
+<div align="center" style="display:inline">
+<img alt="Xiao preview" src="git-img/EOS2.png" width="1016px" />
+</div>
+###Eng2
+<div align="center" style="display:inline">
+<img alt="Xiao preview" src="git-img/CYOS.png" width="1016px" />
+</div>
