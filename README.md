@@ -4,17 +4,19 @@
 <br/><br/>
 
 - <b>[🖥️ GRUB Themes](#previews)</b>
-   - [Ver. 1](#1.)
-   - [Ver. 2](#2.)
+   - [Ver. 1](#1)
+   - [Ver. 2](#2)
    - [Eng ver. 2](#eng2)
 
 - <b>[🔧 Installation](#installation)</b>
-  - [First method](#1.)
-  - [Second method (wip script, soon)](#2)
+  - [First method](#first-method)
+  - [Second method (wip script, soon)](#)
 
 
 ## Installation
-##1.
+
+### First Method
+
 <a><img src="https://i.pinimg.com/originals/45/3d/87/453d874a5cb24f5321162400c0eb5262.gif" width="30%" height="30%" title="🙂" align="right"></a>
 - Open your terminal
 - Copy the repository and unzip
@@ -22,47 +24,57 @@
 ```
     git clone https://github.com/Zerabalus/Xiao-Genshin-GRUB-themes.git
 ```
+On your terminal go to:
+```
+    cd Xiao-Genshin-GRUB-themes/Xiao-Themes/
+``` 
+- Give permissions to script:
 
+```
+    chmod +x install.sh
+```
+```
+    chmod +x uninstall.sh
+``` 
 
 - Using Xiao Grub as an example:
 
-- cd to where you copied it, on your terminal:
+- Only run:
 ```
- sudo cp -r Xiao /usr/share/grub/themes
+    sudo ./install Xiao
 ```
+```
+    sudo update-grub
+```
+```
+    sudo grub-mkconfig -o /boot/grub/grub.cfg      #if you use Arch, use this instead "sudo update-grub"
+```
+- Reboot your PC.
 
-- Or like in my case (DEBIAN-ARCH)
+> [!WARNING]  
+> Make sure that the theme exists. 
 
->Arch/Debian `sudo cp -r Xiao /boot/grub/themes`
-
-- Then edit the name of the grub theme you want:
-```
-sudo nano /etc/default/grub
-```
-```
-GRUB_THEME="/boot/grub/themes/Xiao/theme.txt"
-```
-- Update the grub
-```
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-```
-
-- Reboot your pc
-```
-reboot
-```
+List of Themes:
+* Xiao
+* Xiaov2
+* XiaoEngv2
 
 ## Previews
 
-###1.
+### 1.
+
 <div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/EOS.png" width="1016px" />
+  <img alt="Xiao preview" src="git-img/EOS.png" width="1016px" />
 </div>
-###2.
+
+### 2.
+
 <div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/EOS2.png" width="1016px" />
+  <img alt="Xiao preview" src="git-img/EOS2.png" width="1016px" />
 </div>
-###Eng2
+
+### Eng2
+
 <div align="center" style="display:inline">
-<img alt="Xiao preview" src="git-img/CYOS.png" width="1016px" />
+  <img alt="Xiao preview" src="git-img/CYOS.png" width="1016px" />
 </div>
